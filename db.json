@@ -1,0 +1,40 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "Name": "aksdkaljd",
+      "Surname": "amdas",
+      "Age": 16
+    },
+    {
+      "id": 2,
+      "Name": "ajksdfhsakhdjf",
+      "Surname": "akjlaskjfaskd",
+      "Age": 16
+    },
+    {
+      "id": 3,
+      "Name": "asdasd",
+      "Surname": "asdas",
+      "Age": 16
+    },
+    {
+      "FirstName": "Jonson",
+      "LastName": "VONTOT",
+      "Age": "17",
+      "id": 4
+    },
+    {
+      "FirstName": "Jonson",
+      "LastName": "VONTOT",
+      "Age": "17",
+      "id": 5
+    },
+    {
+      "FirstName": "Baigeldi",
+      "LastName": "Abdyhashym",
+      "Age": "15",
+      "id": 6
+    }
+  ]
+}
